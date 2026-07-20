@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent工作流工程"
+  short_description: "十阶段硬门禁、持久记忆、证据与回归评测"
+  default_prompt: "使用 $engineer-agent-workflows 严格执行十阶段流程，并验证项目上下文、证据、Story和评测四类签名回执。"

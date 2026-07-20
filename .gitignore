@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.state.json
+*.jsonl
+*-receipt.json
+context.json
+.uv-cache/
+uv-cache/
